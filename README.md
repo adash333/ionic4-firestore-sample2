@@ -33,7 +33,7 @@ Run `ionic serve`to start the development environment.
 
 作成経過の一部は以下に記載しています。
 
-http://i-doctor.sakura.ne.jp/dokuwiki/doku.php/ionic4%E3%81%A8firestore%E3%81%A7crud#ionic4%E3%81%A8firestore%E3%81%A7crud1
+http://i-doctor.sakura.ne.jp/dokuwiki/doku.php/ionic4%E3%81%A8firestore%E3%81%A7crud#ionic4%E3%81%A8firestore%E3%81%A7crud2
 
 
 
