@@ -22,7 +22,7 @@ export const environment = {
 ## インストール方法
 
 
-`git clone https://github.com/adash333/ionic3-firebase-todo3.git`
+`git clone https://github.com/adash333/ionic4-firestore-sample2.git`
 
 modify "src/environments/environment.ts"
 
